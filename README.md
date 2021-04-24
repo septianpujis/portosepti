@@ -1,5 +1,6 @@
 # portosepti
 Portofolio Septian dalam bentuk one page website
-see on <a href="https://portsepti.herokuapp.com">this site</a>
+<br>
+See it live on <a href="https://portsepti.herokuapp.com">this site</a><br>
 
-<src img="https://i.imgur.com/O0tDlyy.gif">
+<img src="https://i.imgur.com/O0tDlyy.gif">
